@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Домашнее\task2\bin\Debug\net7.0\task2.exe
+C:\Users\Пользователь\Desktop\Домашнее\task2\bin\Debug\net7.0\task2.deps.json
+C:\Users\Пользователь\Desktop\Домашнее\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Домашнее\task2\bin\Debug\net7.0\task2.dll
+C:\Users\Пользователь\Desktop\Домашнее\task2\bin\Debug\net7.0\task2.pdb
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.dll
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\refint\task2.dll
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.pdb
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Домашнее\task2\obj\Debug\net7.0\ref\task2.dll
