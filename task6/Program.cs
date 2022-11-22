@@ -20,8 +20,7 @@ void answer(int num)
     while (num1 <= num)
     {
         int square = num1 * num1 * num1;
-        Console.WriteLine($"{num1} ");
-        Console.WriteLine(square);
+        Console.WriteLine($"{num1, 4} {square}");
         num1++;
     }
 }
