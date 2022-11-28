@@ -12,3 +12,5 @@ void Metod(string msg)
     Console.WriteLine(msg);
 } 
 Metod("[]");
+string res Metod(1, "");
+Console.WriteLine(res);
