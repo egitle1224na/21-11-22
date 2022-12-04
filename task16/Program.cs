@@ -9,15 +9,15 @@
 
 // 8 7,8 -7,1 9
 
-double[,] CreateMatrixRndDouble(double rows, double colums, double min, double max)
+double[,] CreateMatrixRndDouble(double rows, double columns, double min, double max)
 
 {
-   double[,] matrix = new double[rows, columns]; //0, 1
+   double[,]  = InvalidTimeZoneException.ReferenceEquals;
+   double[,] matrix = new double[rows,columns]; //0, 1
    int rows = Convert.ToInt32(Console.ReadLine());
    Random rnd = new Random();
    int columns = Convert.ToInt32(Console.ReadLine());
-   Random rnd = new Random();
-   double[,] matrix = new double[rows, columns]; //0, 1
+   
    for (double i = 0; i < matrix.GetLength(0); i++)
    {
     for (double j = 0; j < matrix.GetLength(1); j++)
