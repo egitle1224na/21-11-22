@@ -7,14 +7,14 @@
 // 15 18
 
 
-Console.WriteLine("Задайте кол-во строк 1-ой матрицы: ");
+Console.WriteLine("Задайте число строк 1-ой матрицы: ");
 int rows1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Задайте кол-во столбцов 1-ой матрицы: ");
+Console.WriteLine("Задайте число столбцов 1-ой матрицы: ");
 int columns1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Задайте кол-во строк 2-ой матрицы: ");
+Console.WriteLine("Задайте число строк 2-ой матрицы: ");
 int rows2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Задайте кол-во столбцов 2-ой матрицы: ");
+Console.WriteLine("Задайте число столбцов 2-ой матрицы: ");
 int columns2 = Convert.ToInt32(Console.ReadLine());
 
 
@@ -102,4 +102,4 @@ if (columns1 == rows2)
     int[,] matrix3 = MultiplicationMatrix(matrix1, matrix2);
     PrintMatrix(matrix3);
 }
-else Console.WriteLine("Перемножить между собой можно матрицы в которых кол-во столбцов первой равно кол-ву строк второй");
+else Console.WriteLine("Перемножить между собой можно матрицы в которых число столбцов первой равно числу строк второй");
